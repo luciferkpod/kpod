@@ -309,7 +309,7 @@ function updateTotal() {
     itemTotal -= discount;
   }
 
-  F12Amount.value = itemTotal.toFixed(2);
+  F12Amount.value = (itemTotal + 15).toFixed(2);
   productsData.value = `${name} x${qty}${discount > 0 ? " (Promo Applied)" : ""}`;
   itemsTotal.textContent = itemTotal.toFixed(2);
   totalAmount.textContent = (itemTotal + 15).toFixed(2);
