@@ -2,52 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.kpodsingapore.site/</loc>
-    <lastmod>2025-05-11</lastmod>
-    <priority>1.0</priority>
+    <lastmod>2025-06-16T00:09:00+08:00</lastmod>
   </url>
   <url>
     <loc>https://www.kpodsingapore.site/beer.html</loc>
-    <lastmod>2025-05-11</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.kpodsingapore.site/esim.html</loc>
-    <lastmod>2025-05-11</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.kpodsingapore.site/vape.html</loc>
-    <lastmod>2025-05-11</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.kpodsingapore.site/delivery.html</loc>
-    <lastmod>2025-05-11</lastmod>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.kpodsingapore.site/sell-esim.html</loc>
-    <lastmod>2025-05-11</lastmod>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.kpodsingapore.site/thank-you.html</loc>
-    <lastmod>2025-05-11</lastmod>
-    <priority>0.5</priority>
+    <lastmod>2025-06-11</lastmod>
   </url>
   <url>
     <loc>https://www.kpodsingapore.site/contact-us.html</loc>
-    <lastmod>2025-05-11</lastmod>
-    <priority>0.7</priority>
+    <lastmod>2025-06-15T07:00:00+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kpodsingapore.site/delivery-invoice.html</loc>
+    <lastmod>2025-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kpodsingapore.site/delivery.html</loc>
+    <lastmod>2025-06-16T00:17:00+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kpodsingapore.site/esim.html</loc>
+    <lastmod>2025-06-15T07:00:00+08:00</lastmod>
   </url>
   <url>
     <loc>https://www.kpodsingapore.site/order-form.html</loc>
-    <lastmod>2025-05-21</lastmod>
-    <priority>0.7</priority>
+    <lastmod>2025-06-15T07:00:00+08:00</lastmod>
   </url>
   <url>
-    <loc>https://www.kpodsingapore.site/manda-invoice.html</loc>
-    <lastmod>2025-05-21</lastmod>
-    <priority>0.6</priority>
+    <loc>https://www.kpodsingapore.site/our-form.html</loc>
+    <lastmod>2025-06-15T15:00:00+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kpodsingapore.site/our-invoice.html</loc>
+    <lastmod>2025-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kpodsingapore.site/robots.txt</loc>
+    <lastmod>2025-06-16T00:28:00+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kpodsingapore.site/sell-esim.html</loc>
+    <lastmod>2025-06-15T07:00:00+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kpodsingapore.site/sitemap.xml</loc>
+    <lastmod>2025-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kpodsingapore.site/thank-you.html</loc>
+    <lastmod>2025-06-15T07:00:00+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kpodsingapore.site/vape.html</loc>
+    <lastmod>2025-06-16T00:09:00+08:00</lastmod>
   </url>
 </urlset>
